@@ -8,13 +8,11 @@
 
 ## 📌 About This Project
 This repository is dedicated to **Sherlock Holmes**.  
-(ここにサイトやプロジェクトの簡単な説明を書きます。例：シャーロック・ホームズに関する情報やデータをまとめたウェブサイトです。)
-
 ---
 
 ## 🌐 Live Demo / Website
 If you want to check out the live site, click the link below:  
-👉 **[Visit Sherlock Holmes Website](https://your-website-url.com)** *(※ここに実際のサイトURLを貼ります)*
+👉 **[Visit Sherlock Holmes Website](https://akaru-endo.github.io/sherlock-holmes-web/)**
 
 ---
 
